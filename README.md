@@ -9,7 +9,7 @@ This application is designed to assist in managing lab attendance and inventory 
 ### **Splash Screen**
 - A splash screen is displayed when the application is launched, with a `TimerInterval` of 3000 milliseconds (3 seconds). 
 - After the timer expires, the app automatically transitions to the **Login Page**.
-![splash](https://github.com/user-attachments/assets/5efaa79b-d1fe-47c3-887c-6b127b252266)
+<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Picture2" style="height: 300px; width: auto;">
 
 ---
 
