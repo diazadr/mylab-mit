@@ -79,4 +79,4 @@ Feel free to submit issues or contribute to this project by creating pull reques
 
 ---
 
-Thank you for using the Lab Attendance and Inventory Application!
+Thank you for using the MyLab Application!
