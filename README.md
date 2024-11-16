@@ -4,7 +4,7 @@ This application is designed to assist in managing lab attendance and inventory 
 
 ---
 
-# DEMO
+## **DEMO**
 
 ### **Splash Screen**
 - A splash screen is displayed when the application is launched, with a `TimerInterval` of 3000 milliseconds (3 seconds). 
