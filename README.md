@@ -9,7 +9,7 @@ This application is designed to assist in managing lab attendance and inventory 
 ### **Splash Screen**
 - A splash screen is displayed when the application is launched, with a `TimerInterval` of 3000 milliseconds (3 seconds). 
 - After the timer expires, the app automatically transitions to the **Login Page**.
-<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Picture2" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Splash Screen" style="height: 300px; width: auto;">
 
 ---
 
@@ -18,7 +18,7 @@ This application is designed to assist in managing lab attendance and inventory 
 - **FirebaseDB** is used for account authentication, with user data stored in the Firebase database.
 - Users without an account can register via the **Register** button by filling in the required fields in the `TextBox`.
 - Notifications for invalid usernames or login errors are displayed using the `Notifier` component.
-<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Picture2" width="500">
+<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Login Page" style="height: 300px; width: auto;">
 
 ---
 
@@ -29,21 +29,21 @@ This application is designed to assist in managing lab attendance and inventory 
 - **Buttons**:
   - **Save & Exit**: For users who are absent (sick or on leave), the attendance record is marked with a `"-"` symbol.
   - **Save & Enter Lab**: For users who will perform lab inventory tasks, they are redirected to the **Lab Inventory Menu**.
-![Picture3](https://github.com/user-attachments/assets/f429baa0-2ba8-4d0f-86d9-dc90d64477f2)
+<img src="https://github.com/user-attachments/assets/f429baa0-2ba8-4d0f-86d9-dc90d64477f2" alt="Attendance Screen" style="height: 300px; width: auto;">
 
 ---
 
 ### **Lab Inventory Menu**
 - This page displays a list of available labs with corresponding images.
 - Users can select their target lab for inventory management.
-![Picture4](https://github.com/user-attachments/assets/9e2bccb3-b822-49ae-a558-500d8a8a5d22)
+<img src="https://github.com/user-attachments/assets/9e2bccb3-b822-49ae-a558-500d8a8a5d22" alt="Lab Inventory Menu" style="height: 300px; width: auto;">
 
 ---
 
 ### **Lab Inventory Page**
 - On this page, users can check the items available in the lab by entering item descriptions.
 - Inventory data is sent to a specific lab spreadsheet using the `Web` component for documentation and tracking.
-![Picture5](https://github.com/user-attachments/assets/58a2f3c1-a19e-47b8-bf19-bc096b5f1cc8)
+<img src="https://github.com/user-attachments/assets/58a2f3c1-a19e-47b8-bf19-bc096b5f1cc8" alt="Lab Inventory Page" style="height: 300px; width: auto;">
 
 ---
 
@@ -54,7 +54,7 @@ This application is designed to assist in managing lab attendance and inventory 
   2. Add questions and answers in the Google Form to match the input fields in MIT App Inventor.
   3. Obtain the prefilled link from the Google Form and paste it into the application.
   4. Data entered in the app is automatically recorded in the Google Spreadsheet.
-![Picture6](https://github.com/user-attachments/assets/442707c0-f582-4855-93f5-f3d924620c4d)
+<img src="https://github.com/user-attachments/assets/442707c0-f582-4855-93f5-f3d924620c4d" alt="Google Spreadsheet Integration" style="height: 300px; width: auto;">
 
 ---
 
