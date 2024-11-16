@@ -1,4 +1,4 @@
-# Lab Attendance and Inventory Application
+# MyLAB Application
 
 This application is designed to assist in managing lab attendance and inventory processes. It includes features such as Firebase-based login, Google Spreadsheet integration, and inventory data management.
 
