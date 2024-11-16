@@ -18,7 +18,7 @@ This application is designed to assist in managing lab attendance and inventory 
 - **FirebaseDB** is used for account authentication, with user data stored in the Firebase database.
 - Users without an account can register via the **Register** button by filling in the required fields in the `TextBox`.
 - Notifications for invalid usernames or login errors are displayed using the `Notifier` component.
-![Picture2](https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf)
+<img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Picture2" width="500">
 
 ---
 
