@@ -2,6 +2,8 @@
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+This project is developed as part of the Cloud Computing 2 course. It showcases an application for managing lab attendance and inventory, utilizing Firebase for cloud-based authentication and Google Spreadsheet for cloud storage.
+
 ## Technologies Used
 - **MIT App Inventor**: Development platform for the application.
 - **Firebase**: User authentication and account management.
