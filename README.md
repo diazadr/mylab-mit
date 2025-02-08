@@ -21,38 +21,38 @@ This project is developed as part of the Cloud Computing 2 course. It showcases 
 ### Splash Screen
 - Displays for 3 seconds before transitioning to the Login Page.
   
-  <img src="https://github.com/user-attachments/assets/5efaa79b-d1fe-47c3-887c-6b127b252266" alt="Splash Screen" title="Splash Screen" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/5efaa79b-d1fe-47c3-887c-6b127b252266" alt="Splash Screen" title="Splash Screen" style="height: 300px; width: auto;">
 
 ### Login Page
 - Firebase authentication for registered users.
 - Registration option for new users.
 - Error notifications for invalid login attempts.
 
-  <img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Login Page" title="Login Page" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/4ec4cf47-f120-43aa-bb7a-8a397a6a7eaf" alt="Login Page" title="Login Page" style="height: 300px; width: auto;">
 
 ### Attendance Screen
 - Spinner for attendance options.
 - Save & Exit for absent users.
 - Save & Enter Lab for users performing inventory tasks.
 
-  <img src="https://github.com/user-attachments/assets/f429baa0-2ba8-4d0f-86d9-dc90d64477f2" alt="Attendance Screen" title="Attendance Screen" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/f429baa0-2ba8-4d0f-86d9-dc90d64477f2" alt="Attendance Screen" title="Attendance Screen" style="height: 300px; width: auto;">
 
 ### Lab Inventory Menu
 - List of labs with images for selection.
 
-  <img src="https://github.com/user-attachments/assets/9e2bccb3-b822-49ae-a558-500d8a8a5d22" alt="Lab Inventory Menu" title="Lab Inventory Menu" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/9e2bccb3-b822-49ae-a558-500d8a8a5d22" alt="Lab Inventory Menu" title="Lab Inventory Menu" style="height: 300px; width: auto;">
 
 ### Lab Inventory Page
 - Enter item descriptions to check lab inventory.
 - Data sent to Google Spreadsheet for documentation.
 
-  <img src="https://github.com/user-attachments/assets/58a2f3c1-a19e-47b8-bf19-bc096b5f1cc8" alt="Lab Inventory Page" title="Lab Inventory Page" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/58a2f3c1-a19e-47b8-bf19-bc096b5f1cc8" alt="Lab Inventory Page" title="Lab Inventory Page" style="height: 300px; width: auto;">
 
 ### Google Spreadsheet Integration
 - Google Form linked to Spreadsheet for data storage.
 - Prefilled link used to connect the app with Google services.
 
-  <img src="https://github.com/user-attachments/assets/442707c0-f582-4855-93f5-f3d924620c4d" alt="Google Spreadsheet Integration" title="Google Spreadsheet Integration" style="height: 200px; width: auto;">
+  <img src="https://github.com/user-attachments/assets/442707c0-f582-4855-93f5-f3d924620c4d" alt="Google Spreadsheet Integration" title="Google Spreadsheet Integration" style="height: 300px; width: auto;">
 
 ## Setup
 1. **Firebase Configuration**: Set up Firebase for authentication and link it to the app.
